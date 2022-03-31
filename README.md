@@ -1,7 +1,8 @@
 # opencore-shit
 my efi 
 
-specs: 
+specs:
+
 Chipset HM370
 Intel® Core™ i7-8750H (Coffee-Lake)
 16GB RAM DDR4 2666Mhz
